@@ -1,0 +1,2471 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html xmlns:wb="http://open.weibo.com/wb" class="no-js ie iem7" lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html xmlns:wb="http://open.weibo.com/wb" class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html xmlns:wb="http://open.weibo.com/wb" class="no-js ie lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html xmlns:wb="http://open.weibo.com/wb" class="no-js ie lt-ie9" lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><html xmlns:wb="http://open.weibo.com/wb" class="no-js ie" lang="en" dir="ltr" prefix="fb: http://ogp.me/ns/fb# og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#"><![endif]-->
+<!--[if !IE]><!--><html xmlns:wb="http://open.weibo.com/wb" class="no-js" lang="en" dir="ltr" prefix="fb: http://ogp.me/ns/fb# og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#"><!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<script src="/cdn-cgi/apps/head/K5Wq_pljSu1QtI5FjNEVzZZMNTE.js"></script><link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://djmag.com/top100djs" />
+<link rel="shortlink" href="https://djmag.com/top100dj" />
+<meta property="og:site_name" content="DJMag.com" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://djmag.com/top100djs" />
+<meta property="og:title" content="Top 100 DJs" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://djmag.com/top100djs" />
+<meta name="twitter:title" content="Top 100 DJs" />
+<title>Top 100 DJs | DJMag.com</title>
+<link type="text/css" rel="stylesheet" href="https://djmag.com/sites/default/files/css/css_xke9S5ZpH0KUL__NtBohALB0SRAwKM7Klr1M0ENBg28.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://djmag.com/sites/default/files/css/css_uK_vJ1_eOrZ9CeVC19mNe9su7W8abMnpXVOYfs-uOWE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://djmag.com/sites/default/files/css/css_AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs.css" media="all" />
+<script src="https://djmag.com/profiles/djmag/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.3"></script>
+<script src="https://djmag.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];googletag.slots = googletag.slots || {};</script>
+<script>var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];</script>
+<script src="https://djmag.com/misc/drupal.js?p11l3e"></script>
+<script src="https://djmag.com/profiles/djmag/themes/contrib/omega/omega/js/no-js.js?p11l3e"></script>
+<script>googletag.cmd.push(function() {
+  googletag.pubads().enableAsyncRendering();
+  googletag.pubads().collapseEmptyDivs();
+  googletag.enableServices();});</script>
+<script>var gptAdSlots = [];
+googletag.cmd.push(function() {
+  var mapping_lb1 = googletag.sizeMapping().
+	addSize([0, 0], []).
+	addSize([320, 400], [320, 50]).
+	addSize([550, 400], [468, 60]).
+	addSize([1050, 200], [[970,50],[728, 90]]).
+ 	build();
+  var mapping_mpu1 = googletag.sizeMapping().
+	addSize([0, 0], [300, 250]).
+	addSize([1050, 600], [300, 250]).
+ 	build();
+  var mapping_masthead = googletag.sizeMapping().
+ addSize([0, 0], [970,250]).
+ addSize([320, 400], [320, 50]).
+ addSize([500, 200], [468, 60]).
+ addSize([700, 200], [728, 90]).
+ addSize([1050, 250], [970,250]).
+  build();
+  var mapping_skinleft = googletag.sizeMapping().
+	addSize([0, 0], []).
+	addSize([978, 200], [412, 1200]).
+ 	build();
+  var mapping_skinright = googletag.sizeMapping().
+	addSize([0, 0], []).
+	addSize([978, 200], [413, 1200]).
+ 	build();
+  var mapping_halfpage = googletag.sizeMapping().
+	addSize([0, 0], []).
+	addSize([978, 600], []).
+	addSize([1050, 600], [300, 600]).
+ 	build();
+gptAdSlots[0] = googletag.defineSlot('/147620898/lb_default_1_resp', [728, 90], 'lb_default_1_resp').
+	defineSizeMapping(mapping_lb1).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[1] = googletag.defineSlot('/147620898/masthead_default_1_resp', [970, 250], 'masthead_default_1_resp').
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[2] = googletag.defineSlot('/147620898/masthead_default_2_resp', [970, 250], 'masthead_default_2_resp').
+	defineSizeMapping(mapping_masthead).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[3] = googletag.defineSlot('/147620898/masthead_default_3_resp', [970, 250], 'masthead_default_3_resp').
+	defineSizeMapping(mapping_masthead).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[4] = googletag.defineSlot('/147620898/masthead_default_4_resp', [970, 250], 'masthead_default_4_resp').
+	defineSizeMapping(mapping_masthead).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[5] = googletag.defineSlot('/147620898/mpu_default_1', [300, 250], 'mpu_default_1').
+	defineSizeMapping(mapping_mpu1).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[6] = googletag.defineSlot('/147620898/mpu_default_2', [300, 250], 'mpu_default_2').
+	defineSizeMapping(mapping_mpu1).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[7] = googletag.defineSlot('/147620898/mpu_default_3', [300, 250], 'mpu_default_3').
+	defineSizeMapping(mapping_mpu1).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[8] = googletag.defineSlot('/147620898/mpu_default_article_1', [300, 250], 'mpu_default_article_1').
+	defineSizeMapping(mapping_mpu1).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[9] = googletag.defineSlot('/147620898/halfpage_default_1', [300, 600], 'halfpage_default_1').
+	defineSizeMapping(mapping_halfpage).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[10] = googletag.defineSlot('/147620898/skinleft_default_1', [412, 1200], 'skinleft_default_1').
+	defineSizeMapping(mapping_skinleft).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[11] = googletag.defineSlot('/147620898/skinright_default_1', [413, 1200], 'skinright_default_1').
+	defineSizeMapping(mapping_skinright).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[12] = googletag.defineSlot('/147620898/lb_pointblank_1_resp', [728, 90], 'lb_pointblank_1_resp').
+	defineSizeMapping(mapping_lb1).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[13] = googletag.defineSlot('/147620898/masthead_pointblank_1_resp', [970, 250], 'masthead_pointblank_1_resp').
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[14] = googletag.defineSlot('/147620898/masthead_pointblank_2_resp', [970, 250], 'masthead_pointblank_2_resp').
+	defineSizeMapping(mapping_masthead).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[15] = googletag.defineSlot('/147620898/masthead_pointblank_3_resp', [970, 250], 'masthead_pointblank_3_resp').
+	defineSizeMapping(mapping_masthead).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[16] = googletag.defineSlot('/147620898/masthead_pointblank_4_resp', [970, 250], 'masthead_pointblank_4_resp').
+	defineSizeMapping(mapping_masthead).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[17] = googletag.defineSlot('/147620898/mpu_pointblank_1', [300, 250], 'mpu_pointblank_1').
+	defineSizeMapping(mapping_mpu1).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[18] = googletag.defineSlot('/147620898/mpu_pointblank_2', [300, 250], 'mpu_pointblank_2').
+	defineSizeMapping(mapping_mpu1).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[19] = googletag.defineSlot('/147620898/mpu_pointblank_3', [300, 250], 'mpu_pointblank_3').
+	defineSizeMapping(mapping_mpu1).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[20] = googletag.defineSlot('/147620898/mpu_pointblank_article_1', [300, 250], 'mpu_pointblank_article_1').
+	defineSizeMapping(mapping_mpu1).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[21] = googletag.defineSlot('/147620898/halfpage_pointblank_1', [300, 600], 'halfpage_pointblank_1').
+	defineSizeMapping(mapping_halfpage).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[22] = googletag.defineSlot('/147620898/skinleft_pointblank_1', [412, 1200], 'skinleft_pointblank_1').
+	defineSizeMapping(mapping_skinleft).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[23] = googletag.defineSlot('/147620898/skinright_pointblank_1', [413, 1200], 'skinright_pointblank_1').
+	defineSizeMapping(mapping_skinright).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[24] = googletag.defineSlot('/147620898/lb_miller_1_resp', [728, 90], 'lb_miller_1_resp').
+	defineSizeMapping(mapping_lb1).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[25] = googletag.defineSlot('/147620898/masthead_miller_1_resp', [970, 250], 'masthead_miller_1_resp').
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[26] = googletag.defineSlot('/147620898/masthead_miller_2_resp', [970, 250], 'masthead_miller_2_resp').
+	defineSizeMapping(mapping_masthead).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[27] = googletag.defineSlot('/147620898/masthead_miller_3_resp', [970, 250], 'masthead_miller_3_resp').
+	defineSizeMapping(mapping_masthead).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[28] = googletag.defineSlot('/147620898/masthead_miller_4_resp', [970, 250], 'masthead_miller_4_resp').
+	defineSizeMapping(mapping_masthead).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[29] = googletag.defineSlot('/147620898/mpu_miller_1', [300, 250], 'mpu_miller_1').
+	defineSizeMapping(mapping_mpu1).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[30] = googletag.defineSlot('/147620898/mpu_miller_2', [300, 250], 'mpu_miller_2').
+	defineSizeMapping(mapping_mpu1).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[31] = googletag.defineSlot('/147620898/mpu_miller_3', [300, 250], 'mpu_miller_3').
+	defineSizeMapping(mapping_mpu1).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[32] = googletag.defineSlot('/147620898/mpu_miller_article_1', [300, 250], 'mpu_miller_article_1').
+	defineSizeMapping(mapping_mpu1).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[33] = googletag.defineSlot('/147620898/halfpage_miller_1', [300, 600], 'halfpage_miller_1').
+	defineSizeMapping(mapping_halfpage).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[34] = googletag.defineSlot('/147620898/skinleft_miller_1', [412, 1200], 'skinleft_miller_1').
+	defineSizeMapping(mapping_skinleft).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[35] = googletag.defineSlot('/147620898/skinright_miller_1', [413, 1200], 'skinright_miller_1').
+	defineSizeMapping(mapping_skinright).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[36] = googletag.defineSlot('/147620898/masthead_live_1_resp', [970, 250], 'masthead_live_1_resp').
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[37] = googletag.defineSlot('/147620898/masthead_live_2_resp', [970, 250], 'masthead_live_2_resp').
+	defineSizeMapping(mapping_masthead).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[38] = googletag.defineSlot('/147620898/mpu_live_1', [300, 250], 'mpu_live_1').
+	defineSizeMapping(mapping_mpu1).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+gptAdSlots[39] = googletag.defineSlot('/147620898/mpu_live_2', [300, 250], 'mpu_live_2').
+	defineSizeMapping(mapping_mpu1).
+	setCollapseEmptyDiv(true).
+    addService(googletag.pubads());
+googletag.enableServices();
+    });
+</script>
+<script src="https://djmag.com/profiles/djmag/modules/contrib/ctools/js/auto-submit.js?p11l3e"></script>
+<script src="https://djmag.com/profiles/djmag/libraries/jeditable/jquery.jeditable.mini.js?p11l3e"></script>
+<script src="https://djmag.com/profiles/djmag/themes/custom/djmagtheme/dist/scripts/bundle.js?p11l3e"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","urlIsAjaxTrusted":{"\/top100djs":true,"\/top100dj":true}});</script>
+<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
+<link rel="apple-touch-icon" sizes="180x180" href="/profiles/djmag/libraries/styleguide/dist/images/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/profiles/djmag/libraries/styleguide/dist/images/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/profiles/djmag/libraries/styleguide/dist/images/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/profiles/djmag/libraries/styleguide/dist/images/favicons/manifest.json">
+<link rel="mask-icon" href="/profiles/djmag/libraries/styleguide/dist/images/favicons/safari-pinned-tab.svg" color="#e41b13">
+<meta name="theme-color" content="#ffffff">
+<meta property="fb:pages" content="21283608795" />
+</head>
+<body class="html not-front not-logged-in page-top100dj top100djs2016  section-top100djs">
+<a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+<div id="top" class="_site">
+<div class="_site--roof">
+</div>
+<header class="_site--header">
+<div class="_site--banner">
+<div class="_site--meta">
+<nav class="navigation--user">
+<a href="/user/login" class="navigation--user--link--LOGIN">sign in / register</a><a href="/sub" class="navigation--user--link--SUBSCRIBE">subscribe</a></nav>
+<div class="panel-pane pane-block pane-search-form">
+<form class="search-block-form base--FORM" action="/top100djs" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+<h2 class="element-invisible">Search form</h2>
+<div class="form-item form-type-textfield form-item-search-block-form">
+<label class="element-invisible" for="edit-search-block-form--2">Search </label>
+<input title="Enter the terms you wish to search for." id="search" class="form-text" placeholder="Search" type="text" name="search_block_form" value="" size="15" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><button type="submit" class="icon"><i class="fa fa-search"><input style="display: none" type="submit" id="edit-submit" name="op" value="" class="form-submit" /></i></button></div><input type="hidden" name="form_build_id" value="form-TAc1tB2FFyBYY9p9tVaxlSaJatdDJZYn3lQx9KgfuUY" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form> </div>
+<nav class="navigation--meta" role="navigation">
+<a href="https://www.facebook.com/djmagazine" class="social-media--icon--FACEBOOK navigation--meta--link" target="_blank">Facebook</a><a href="https://twitter.com/DJmag" title="@djmag" class="social-media--icon--TWITTER navigation--meta--link" target="_blank">Twitter</a><a href="https://www.instagram.com/djmagofficial/" class="social-media--icon--INSTAGRAM navigation--meta--link" target="_blank">Instragram</a><a href="https://soundcloud.com/djmag" class="social-media--icon--SOUNDCLOUD navigation--meta--link" target="_blank">Soundcloud</a><a href="https://www.youtube.com/user/djmagtv" class="social-media--icon--YOUTUBE navigation--meta--link" target="_blank">You Tube</a></nav>
+<div class="branding">
+<a href="/" class="branding--link--SMALL" title="DjMag">DJMAG</a>
+</div>
+</div>
+<div class="_site--branding">
+<div class="panel-pane pane-pane-header">
+<div class="branding">
+<a class="branding--link" href="/" title="DJMag.com" rel="home">DJMag.com</a>
+</div> </div>
+<div class="panel-pane pane-djmag-advert-responsive-pane ad--banner leaderboard--new">
+<div id="lb_default_1_resp">
+<script>
+     googletag.cmd.push(function() {
+       googletag.display('lb_default_1_resp');
+     });
+   </script>
+</div> </div>
+</div>
+</div>
+<div class="_site--headquarters">
+<div class="_site--navigation--section--link">
+<a href="#" class="navigation--section--link--toggle">all sections</a>
+<a href="#" class="user--section--link--toggle">user</a>
+</div>
+<div class="_site--navigation">
+<div class="_site--navigation-local">
+<h2 class="element-invisible">You are here</h2><div class="breadcrumbs"><span class="breadcrumbs--link"><a href="/">Home</a></span><span class="breadcrumbs--link"><a href="/top100djs" class="active">Top 100 DJs</a></span></div> </div>
+<div class="_site--navigation-main">
+<div class="_site--navigation--container">
+<div class="navigation--scroll">
+<nav class="navigation--primary" role="navigation">
+<ul class="navigation--primary"><li class="navigation--primary--item"><a href="/" class="navigation--primary--link--HOME navigation--primary--link">home</a></li>
+<li class="navigation--primary--item"><a href="/news" class="navigation--primary--link">News</a></li>
+<li class="navigation--primary--item"><a href="/features" class="navigation--primary--link">Features</a></li>
+<li class="navigation--primary--item"><a href="/clubs" class="navigation--primary--link">Clubs</a></li>
+<li class="navigation--primary--item"><a href="/music" class="navigation--primary--link">Music</a><ul class="navigation--primary--submenu"><li class="navigation--primary--submenu--item"><a href="/musicreviews" class="navigation--primary--submenu--link">Reviews</a></li>
+<li class="navigation--primary--submenu--item"><a href="/music" class="navigation--primary--submenu--link">News</a></li>
+</ul></li>
+<li class="navigation--primary--item"><a href="/tech" class="navigation--primary--link">Tech</a></li>
+<li class="navigation--primary--item"><a href="/top100djs" class="active-trail navigation--primary--link active">Top 100 DJs</a></li>
+<li class="navigation--primary--item"><a href="/top100clubs" class="navigation--primary--link">Top 100 Clubs</a></li>
+<li class="navigation--primary--item"><a href="http://top100clubs.com" class="navigation--primary--link">Voting</a></li>
+<li class="navigation--primary--item"><a href="/miller" class="navigation--primary--link">Miller Music Hub</a></li>
+<li class="navigation--primary--item"><a href="/info/live-streams" class="navigation--primary--link">Live Streams</a></li>
+</ul></nav>
+</div>
+</div>
+</div>
+</div>
+<div class="_site--container-section">
+<div class="_site--navigation-section">
+<nav class="navigation--section" role="navigation">
+<ul class="navigation--section--primary"><li class="navigation--section--primary--item"><a href="/news" class="navigation--section--primary--link">News</a></li>
+<li class="navigation--section--primary--item"><a href="/features" class="navigation--section--primary--link">Features</a></li>
+<li class="navigation--section--primary--item"><a href="/clubs" class="navigation--section--primary--link">Clubs</a></li>
+<li class="navigation--section--primary--item"><a href="/music" class="navigation--section--primary--link">Music</a><ul class="navigation--section--secondary"><li class="navigation--section--secondary--item"><a href="/musicreviews" class="navigation--section--secondary--link">Reviews</a></li>
+<li class="navigation--section--secondary--item"><a href="/music" class="navigation--section--secondary--link">News</a></li>
+</ul></li>
+<li class="navigation--section--primary--item"><a href="/tech" class="navigation--section--primary--link">Tech</a></li>
+<li class="navigation--section--primary--item"><a href="/top100djs" class="active-trail navigation--section--primary--link active">Top 100 DJs</a></li>
+<li class="navigation--section--primary--item"><a href="/top100clubs" class="navigation--section--primary--link">Top 100 Clubs</a></li>
+<li class="navigation--section--primary--item"><a href="http://top100clubs.com" class="navigation--section--primary--link">Voting</a></li>
+<li class="navigation--section--primary--item"><a href="/miller" class="navigation--section--primary--link">Miller Music Hub</a></li>
+<li class="navigation--section--primary--item"><a href="/info/live-streams" class="navigation--section--primary--link">Live Streams</a></li>
+</ul></nav> </div>
+<div class="_user--navigation-section">
+<nav class="navigation--user">
+<a href="/user/login" class="navigation--user--link--LOGIN">sign in / register</a><a href="/sub" class="navigation--user--link--SUBSCRIBE">subscribe</a></nav>
+</div>
+</div>
+</div>
+</header>
+<main class="_site--main">
+<div class="_site--content">
+<div class="_ad--block-left">
+<div class="panel-pane pane-djmag-advert-responsive-pane">
+<div id="skinleft_default_1">
+<script>
+     googletag.cmd.push(function() {
+       googletag.display('skinleft_default_1');
+     });
+   </script>
+</div> </div>
+</div>
+<div class="_ad--block-right">
+<div class="panel-pane pane-djmag-advert-responsive-pane">
+<div id="skinright_default_1">
+<script>
+     googletag.cmd.push(function() {
+       googletag.display('skinright_default_1');
+     });
+   </script>
+</div> </div>
+</div>
+<div class="panel-pane pane-page-content">
+<div class="top100dj--header">
+<div class="top100logo">
+<div class="panel-pane pane-custom pane-1 top100djslogo">
+<p><img src="/profiles/djmag/libraries/styleguide/dist/images/top-100djs-logo.png" width="574" height="80" /></p> </div>
+</div>
+<div class="rounded-select-box">
+<div class="panel-pane pane-views-exposed">
+<form class="ctools-auto-submit-full-form views-exposed-form-top100djs-ctools-context-2 base--FORM" action="/top100dj" method="get" id="views-exposed-form-top100djs-ctools-context-2" accept-charset="UTF-8"><div><div class="views-exposed-form">
+<div class="views-exposed-widgets clearfix">
+<div id="edit-year-wrapper" class="views-exposed-widget views-widget-filter-field_year_value">
+<div class="views-widget">
+<div class="form-item form-type-select form-item-year">
+<select id="edit-year" name="year" class="form-select"><option value="All">- Any -</option><option value="2004">2004</option><option value="2005">2005</option><option value="2006">2006</option><option value="2007">2007</option><option value="2008">2008</option><option value="2009">2009</option><option value="2010">2010</option><option value="2011">2011</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017" selected="selected">2017</option></select>
+</div>
+</div>
+</div>
+<div class="views-exposed-widget views-submit-button">
+<input class="ctools-use-ajax ctools-auto-submit-click js-hide form-submit" type="submit" id="edit-submit-top100djs" name="" value="Apply" /> </div>
+</div>
+</div>
+</div></form> </div>
+</div>
+</div>
+<section class="top100dj--newlayout">
+<div class="panel-pane pane-views-row newtop100--section1 newtop100--section">
+<div class="container_with_line">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-martin-garrix"><div class="media" id="file-24613">
+<figure class="media--image_top100_no1">
+<img class="media--image_top100_no1--image_top100_no1" src="https://djmag.com/sites/default/files/styles/djmag_landscape__691x372_/public/top100/djs/image/RachelKaplan-1899.jpg?itok=DjzskrbC" alt="" /> <figcaption class="media--image_top100_no1--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">1</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar">
+<div class="top100dj-position">
+1
+</div>
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-martin-garrix">Martin Garrix</a>
+</div>
+<div class="top100dj-movement">
+No change
+</div>
+</div>
+</div> </div> </article>
+</div> </div>
+<div class="panel-pane pane-views-row newtop100--section2 newtop100--section">
+<div class="container_with_line" id="60191">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-dimitri-vegas-mike"><div class="media" id="file-24936">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-dimitri-vegas-mike"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/dvlm_press.jpg?itok=M6lCbKHb" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">2</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-dimitri-vegas-mike">Dimitri Vegas &amp; Like Mike</a>
+</div>
+<div class="top100dj-movement">
+No change
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60190">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-armin-van-buuren"><div class="media" id="file-24610">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-armin-van-buuren"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/03.jpg?itok=1LIKOHza" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">3</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-armin-van-buuren">Armin Van Buuren</a>
+</div>
+<div class="top100dj-movement">
+Up 1
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60189">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-hardwell"><div class="media" id="file-24609">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-hardwell"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/04%20Hardwell%20def%20-%20Krijn%20van%20Noordwijk_compressed2.jpg?itok=Js0nFVcS" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">4</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-hardwell">Hardwell</a>
+</div>
+<div class="top100dj-movement">
+Down 1
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60187">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-ti%C3%ABsto"><div class="media" id="file-24607">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-ti%C3%ABsto"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/5%20-%20TIESTO.jpg?itok=cQi63D89" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">5</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-ti%C3%ABsto">Tiësto</a>
+</div>
+<div class="top100dj-movement">
+No change
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60185">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-chainsmokers"><div class="media" id="file-24605">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-chainsmokers"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/06.jpg?itok=XsGtoZ6Y" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">6</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-chainsmokers">The Chainsmokers</a>
+</div>
+<div class="top100dj-movement">
+Up 12
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60178">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-david-guetta"><div class="media" id="file-24844">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-david-guetta"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/19-7676.jpg?itok=Mr0Fu7Er" alt="David Guetta Top 100 DJs" title="David Guetta Top 100 DJs" /></a> <figcaption class="media--image--caption">
+David Guetta Top 100 DJs </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">7</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-david-guetta">David Guetta</a>
+</div>
+<div class="top100dj-movement">
+Down 1
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60174">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-afrojack"><div class="media" id="file-24591">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-afrojack"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/08%20Afrojack%20x72913.jpg?itok=6qRqwQb3" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">8</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-afrojack">Afrojack</a>
+</div>
+<div class="top100dj-movement">
+Up 2
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60170">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-steve-aoki"><div class="media" id="file-24587">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-steve-aoki"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/aoki-best.jpg?itok=4GucpZsP" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">9</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-steve-aoki">Steve Aoki</a>
+</div>
+<div class="top100dj-movement">
+Down 2
+</div>
+</div>
+</div> </div> </article>
+</div> </div>
+<div class="panel-pane pane-djmag-advert-responsive-pane">
+<div id="masthead_default_2_resp">
+<script>
+     googletag.cmd.push(function() {
+       googletag.display('masthead_default_2_resp');
+     });
+   </script>
+</div> </div>
+<div class="panel-pane pane-views-row newtop100--section3 newtop100--section">
+<div class="container_with_line" id="60166">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-marshmello"><div class="media" id="file-24582">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-marshmello"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/10%20-%20MARSHMELLO.jpg?itok=i2U-JQej" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">10</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-marshmello">Marshmello</a>
+</div>
+<div class="top100dj-movement">
+Up 18
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60158">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-don-diablo"><div class="media" id="file-24574">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-don-diablo"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/657951459332202.jpg?itok=VkXldjdv" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">11</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-don-diablo">Don Diablo </a>
+</div>
+<div class="top100dj-movement">
+Up 4
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60154">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-kshmr"><div class="media" id="file-24566">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-kshmr"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/12_KSHMR2.jpg?itok=pEZuNMrr" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">12</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-kshmr">KSHMR</a>
+</div>
+<div class="top100dj-movement">
+No change
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60152">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-oliver-heldens"><div class="media" id="file-24564">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-oliver-heldens"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/13%20-%20OLIVER%20HELDENS.jpg?itok=cftje4nn" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">13</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-oliver-heldens">Oliver Heldens</a>
+</div>
+<div class="top100dj-movement">
+Down 5
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60150">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-ww"><div class="media" id="file-24561">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-ww"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/14_WandW2.jpg?itok=y4utAXut" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">14</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-ww">W&amp;W</a>
+</div>
+<div class="top100dj-movement">
+Down 1
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60148">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-calvin-harris"><div class="media" id="file-24559">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-calvin-harris"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/15%20-%20CALVIN%20HARRIS.jpg?itok=DWL4NcoC" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">15</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-calvin-harris">Calvin Harris</a>
+</div>
+<div class="top100dj-movement">
+Down 1
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60143">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-skrillex"><div class="media" id="file-24554">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-skrillex"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/8-Skrillex-cr-Jason-Nocito-press-dj-real-names-billboard-1548.jpg?itok=zePlXLqv" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">16</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-skrillex">Skrillex</a>
+</div>
+<div class="top100dj-movement">
+Down 7
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60140">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-alan-walker"><div class="media" id="file-24552">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-alan-walker"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/alan-walker-press-cr-Rikkard-Haggbom-2016-billboard-1548.jpg?itok=rJ7VH4px" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">17</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-alan-walker">Alan Walker</a>
+</div>
+<div class="top100dj-movement">
+Up 38
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60136">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-r3hab"><div class="media" id="file-24547">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-r3hab"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/r3hab-press-photo-cr-Dan-Dealy-2017-billboard-1548.jpg?itok=m4aNDh4t" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">18</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-r3hab">R3hab</a>
+</div>
+<div class="top100dj-movement">
+Up 3
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60129">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-alok"><div class="media" id="file-24542">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-alok"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/19%20-%20ALOK.jpg?itok=APhTHZsV" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">19</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-alok">Alok</a>
+</div>
+<div class="top100dj-movement">
+Up 6
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60127">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-dash-berlin"><div class="media" id="file-24540">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-dash-berlin"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/20_DashBerlin2.jpg?itok=0jRvbrgf" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">20</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-dash-berlin">Dash Berlin</a>
+</div>
+<div class="top100dj-movement">
+Down 3
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60124">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-axwell-ingrosso"><div class="media" id="file-24534">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-axwell-ingrosso"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/21_axwell-ingrosso3.jpg?itok=xQu7bHtJ" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">21</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-axwell-ingrosso">Axwell /\ Ingrosso</a>
+</div>
+<div class="top100dj-movement">
+Down 5
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60122">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-dvbbs"><div class="media" id="file-24526">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-dvbbs"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/22%20-%20DVBBS_0.jpg?itok=SpEhFbWv" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">22</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-dvbbs">DVBBS</a>
+</div>
+<div class="top100dj-movement">
+Up 2
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60113">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-dj-snake"><div class="media" id="file-24521">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-dj-snake"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/c333ede4a8f1c365762730d2eba96f01.620x413x1.jpg?itok=wrNfvwbi" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">23</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-dj-snake">DJ Snake</a>
+</div>
+<div class="top100dj-movement">
+Down 1
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60110">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-kygo"><div class="media" id="file-24518">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-kygo"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/24%20-%20KYGO.jpg?itok=fIs8Cbyu" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">24</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-kygo">Kygo</a>
+</div>
+<div class="top100dj-movement">
+Up 2
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60108">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-diplo"><div class="media" id="file-24516">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-diplo"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/25_Diplo.jpg?itok=cDC4Yd90" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">25</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-diplo">Diplo</a>
+</div>
+<div class="top100dj-movement">
+Down 2
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60177">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-lost-frequencies"><div class="media" id="file-24595">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-lost-frequencies"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/26%20-%20LOST%20FREQUENCIES.jpg?itok=T0ZbUcHF" alt="26 - LOST FREQUENCIES.jpg" title="26 - LOST FREQUENCIES.jpg" /></a> <figcaption class="media--image--caption">
+26 - LOST FREQUENCIES.jpg </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">26</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-lost-frequencies">Lost Frequencies</a>
+</div>
+<div class="top100dj-movement">
+New Entry
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60175">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-above-beyond"><div class="media" id="file-24592">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-above-beyond"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/27%20-%20ABOVE%20%26%20BEYOND.jpg?itok=kIAFvI5v" alt="27 - ABOVE &amp; BEYOND.jpg" title="27 - ABOVE &amp; BEYOND.jpg" /></a> <figcaption class="media--image--caption">
+27 - ABOVE & BEYOND.jpg </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">27</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-above-beyond">Above &amp; Beyond</a>
+</div>
+<div class="top100dj-movement">
+Up 20
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60173">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-avicii"><div class="media" id="file-24590">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-avicii"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/28%20-%20AVICII.jpg?itok=8kvqugZ0" alt="28 - AVICII.jpg" title="28 - AVICII.jpg" /></a> <figcaption class="media--image--caption">
+28 - AVICII.jpg </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">28</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-avicii">Avicii</a>
+</div>
+<div class="top100dj-movement">
+Down 17
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60171">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-zedd"><div class="media" id="file-24588">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-zedd"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/29%20-%20ZEDD%202.jpg?itok=-_DgnLU3" alt="29 - ZEDD 2.jpg" title="29 - ZEDD 2.jpg" /></a> <figcaption class="media--image--caption">
+29 - ZEDD 2.jpg </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">29</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-zedd">Zedd</a>
+</div>
+<div class="top100dj-movement">
+Up 6
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60138">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-quintino"><div class="media" id="file-24548">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-quintino"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/30%20-%20QUINTINO.jpg?itok=-zn19skx" alt="30 - QUINTINO.jpg" title="30 - QUINTINO.jpg" /></a> <figcaption class="media--image--caption">
+30 - QUINTINO.jpg </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">30</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-quintino">Quintino</a>
+</div>
+<div class="top100dj-movement">
+Up 2
+</div>
+</div>
+</div> </div> </article>
+</div> </div>
+<div class="panel-pane pane-djmag-advert-responsive-pane">
+<div id="masthead_default_3_resp">
+<script>
+     googletag.cmd.push(function() {
+       googletag.display('masthead_default_3_resp');
+     });
+   </script>
+</div> </div>
+<div class="panel-pane pane-views-row newtop100--section4 newtop100--section">
+<div class="container_with_line" id="60134">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-vintage-culture"><div class="media" id="file-24546">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-vintage-culture"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/31%20-%20VINTAGE%20CULTURE.jpg?itok=tCep6STE" alt="31 - VINTAGE CULTURE.jpg" title="31 - VINTAGE CULTURE.jpg" /></a> <figcaption class="media--image--caption">
+31 - VINTAGE CULTURE.jpg </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">31</div> </div>
+<div class="views-field views-field-field-top100-places">  <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-vintage-culture">Vintage Culture</a>
+</div>
+<div class="top100dj-movement">
+Up 23
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60131">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-vinai"><div class="media" id="file-24544">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-vinai"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/32%20-%20VINAI.jpg?itok=cAwbBfVp" alt="32 - VINAI.jpg" title="32 - VINAI.jpg" /></a> <figcaption class="media--image--caption">
+32 - VINAI.jpg </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">32</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-vinai">VINAI</a>
+</div>
+<div class="top100dj-movement">
+Up 5
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60130">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-headhunterz"><div class="media" id="file-24543">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-headhunterz"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/33%20-%20HEADHUNTERZ.jpg?itok=eQKShDsG" alt="33 - HEADHUNTERZ.jpg" title="33 - HEADHUNTERZ.jpg" /></a> <figcaption class="media--image--caption">
+33 - HEADHUNTERZ.jpg </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">33</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-headhunterz">Headhunterz</a>
+</div>
+<div class="top100dj-movement">
+Up 3
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60128">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-eric-prydz"><div class="media" id="file-24541">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-eric-prydz"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/34%20-%20ERIC%20PRYDZ.jpg?itok=sa6-bO-v" alt="34 - ERIC PRYDZ.jpg" title="34 - ERIC PRYDZ.jpg" /></a> <figcaption class="media--image--caption">
+34 - ERIC PRYDZ.jpg </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">34</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-eric-prydz">Eric Prydz</a>
+</div>
+<div class="top100dj-movement">
+Up 32
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60126">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-bassjackers"><div class="media" id="file-24539">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-bassjackers"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/35%20-%20BASSJACKERS.jpg?itok=jCSrz4TE" alt="35 - BASSJACKERS.jpg" title="35 - BASSJACKERS.jpg" /></a> <figcaption class="media--image--caption">
+35 - BASSJACKERS.jpg </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">35</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-bassjackers">Bassjackers</a>
+</div>
+<div class="top100dj-movement">
+Down 1
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60125">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-blasterjaxx"><div class="media" id="file-24535">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-blasterjaxx"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/36%20-%20BLASTERJAXX.jpg?itok=67kytbfR" alt="36 - BLASTERJAXX.jpg" title="36 - BLASTERJAXX.jpg" /></a> <figcaption class="media--image--caption">
+36 - BLASTERJAXX.jpg </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">36</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-blasterjaxx">Blasterjaxx</a>
+</div>
+<div class="top100dj-movement">
+Up 7
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60123">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-alesso"><div class="media" id="file-24533">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-alesso"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/37%20-%20ALESSO.jpg?itok=-ZP93kDT" alt="37 - ALESSO.jpg" title="37 - ALESSO.jpg" /></a> <figcaption class="media--image--caption">
+37 - ALESSO.jpg </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">37</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-alesso">Alesso</a>
+</div>
+<div class="top100dj-movement">
+Down 17
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60120">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-ummet-ozcan"><div class="media" id="file-24532">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-ummet-ozcan"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/38%20-%20UMMET%20OZCAN.jpg?itok=5wCntF0T" alt="38 - UMMET OZCAN.jpg" title="38 - UMMET OZCAN.jpg" /></a> <figcaption class="media--image--caption">
+38 - UMMET OZCAN.jpg </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">38</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-ummet-ozcan">Ummet Ozcan</a>
+</div>
+<div class="top100dj-movement">
+Down 19
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60119">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-fedde-le-grand"><div class="media" id="file-24530">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-fedde-le-grand"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/39%20-%20FEDDE%20LE%20GRAND.jpg?itok=6LHmZk2x" alt="39 - FEDDE LE GRAND.jpg" title="39 - FEDDE LE GRAND.jpg" /></a> <figcaption class="media--image--caption">
+39 - FEDDE LE GRAND.jpg </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">39</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-fedde-le-grand">Fedde Le Grand</a>
+</div>
+<div class="top100dj-movement">
+Up 11
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60117">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-angerfist"><div class="media" id="file-24529">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-angerfist"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/40%20-%20ANGERFIST.jpg?itok=Hzy5Vsif" alt="40 - ANGERFIST.jpg" title="40 - ANGERFIST.jpg" /></a> <figcaption class="media--image--caption">
+40 - ANGERFIST.jpg </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">40</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-angerfist">Angerfist</a>
+</div>
+<div class="top100dj-movement">
+Up 6
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60115">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-wolfpack"><div class="media" id="file-24686">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-wolfpack"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/41%20-%20WOLFPACK%202_0.jpg?itok=QEwTbd8R" alt="41 - WOLFPACK 2.jpg" title="41 - WOLFPACK 2.jpg" /></a> <figcaption class="media--image--caption">
+41 - WOLFPACK 2.jpg </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">41</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-wolfpack">Wolfpack</a>
+</div>
+<div class="top100dj-movement">
+Up 22
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60114">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-nervo"><div class="media" id="file-24523">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-nervo"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/42%20-%20NERVO.jpg?itok=Xtwc1ujD" alt="42 - NERVO.jpg" title="42 - NERVO.jpg" /></a> <figcaption class="media--image--caption">
+42 - NERVO.jpg </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">42</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-nervo">Nervo</a>
+</div>
+<div class="top100dj-movement">
+Up 3
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60111">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-timmy-trumpet"><div class="media" id="file-25104">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-timmy-trumpet"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/TT%20dj%20mag%20hr.jpg?itok=qLK76qBZ" alt="Timmy Trumpet top 100 DJs" title="Timmy Trumpet top 100 DJs" /></a> <figcaption class="media--image--caption">
+Timmy Trumpet top 100 DJs </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">43</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-timmy-trumpet">Timmy Trumpet</a>
+</div>
+<div class="top100dj-movement">
+Up 37
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60109">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-radical-redemption"><div class="media" id="file-24517">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-radical-redemption"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/44%20-%20RADICAL%20REDEMPTION%202.jpg?itok=xxgZYNxO" alt="44 - RADICAL REDEMPTION 2.jpg" title="44 - RADICAL REDEMPTION 2.jpg" /></a> <figcaption class="media--image--caption">
+44 - RADICAL REDEMPTION 2.jpg </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">44</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-radical-redemption">Radical Redemption</a>
+</div>
+<div class="top100dj-movement">
+Up 24
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60107">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-major-lazer"><div class="media" id="file-24515">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-major-lazer"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/45%20-%20MAJOR%20LAZER.jpg?itok=yHBXGrLs" alt="45 - MAJOR LAZER.jpg" title="45 - MAJOR LAZER.jpg" /></a> <figcaption class="media--image--caption">
+45 - MAJOR LAZER.jpg </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">45</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-major-lazer">Major Lazer</a>
+</div>
+<div class="top100dj-movement">
+Down 1
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60105">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-tujamo"><div class="media" id="file-24514">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-tujamo"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/46%20-%20TUJAMO.jpg?itok=o6t-92zR" alt="46 - TUJAMO.jpg" title="46 - TUJAMO.jpg" /></a> <figcaption class="media--image--caption">
+46 - TUJAMO.jpg </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">46</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-tujamo">Tujamo</a>
+</div>
+<div class="top100dj-movement">
+Up 32
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60103">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-tom-swoon"><div class="media" id="file-24712">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-tom-swoon"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/TOM%20SWOON%20PIC%20ONLINE.jpg?itok=gaZ6UG7j" alt="TOM SWOON PIC ONLINE.jpg" title="TOM SWOON PIC ONLINE.jpg" /></a> <figcaption class="media--image--caption">
+TOM SWOON PIC ONLINE.jpg </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">47</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-tom-swoon">Tom Swoon</a>
+</div>
+<div class="top100dj-movement">
+Up 9
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60102">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-kura"><div class="media" id="file-24510">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-kura"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/48%20-%20KURA.jpg?itok=QWR8SsDr" alt="48 - KURA.jpg" title="48 - KURA.jpg" /></a> <figcaption class="media--image--caption">
+48 - KURA.jpg </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">48</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-kura">Kura</a>
+</div>
+<div class="top100dj-movement">
+Up 3
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60101">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-deadmau5"><div class="media" id="file-24509">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-deadmau5"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/49%20-%20DEADMAU5.jpg?itok=XAz9DqHM" alt="49 - DEADMAU5.jpg" title="49 - DEADMAU5.jpg" /></a> <figcaption class="media--image--caption">
+49 - DEADMAU5.jpg </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">49</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-deadmau5">Deadmau5</a>
+</div>
+<div class="top100dj-movement">
+Down 18
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60100">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-nicky-romero"><div class="media" id="file-24508">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-nicky-romero"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/50%20-%20NICKY%20ROMERO.jpg?itok=vZYDRNoH" alt="50 - NICKY ROMERO.jpg" title="50 - NICKY ROMERO.jpg" /></a> <figcaption class="media--image--caption">
+50 - NICKY ROMERO.jpg </figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">50</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-nicky-romero">Nicky Romero</a>
+</div>
+<div class="top100dj-movement">
+Down 21
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60186">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-paul-van-dyk"><div class="media" id="file-24756">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-paul-van-dyk"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/Paul%20van%20Dyk%20_%20From%20Then%20On_%2003-%20credits%20Christoph%20K%C3%B6stlin.png?itok=GhDjcsdZ" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">51</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-paul-van-dyk">Paul van Dyk</a>
+</div>
+<div class="top100dj-movement">
+Up 9
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60184">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-danny-avila"><div class="media" id="file-24604">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-danny-avila"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/DANNY%20AVILA%20%28Pic%20by%20Hannes%20Windrath%29.jpg?itok=OyQvug66" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">52</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-danny-avila">Danny Avila</a>
+</div>
+<div class="top100dj-movement">
+Re-entry
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60182">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-aly-fila"><div class="media" id="file-24603">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-aly-fila"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/53%20Aly%20%26%20Fila.jpg?itok=Rdk-7wMN" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">53</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-aly-fila">Aly &amp; Fila</a>
+</div>
+<div class="top100dj-movement">
+Down 12
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60181">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-atb"><div class="media" id="file-24937">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-atb"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/ATB_1.jpg?itok=gCG0wsnp" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">54</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-atb">ATB</a>
+</div>
+<div class="top100dj-movement">
+Up 7
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60180">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-yves-v"><div class="media" id="file-24600">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-yves-v"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/55%20-%20YVES%20V.jpg?itok=XYP_WkJb" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">55</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-yves-v">Yves V</a>
+</div>
+<div class="top100dj-movement">
+Up 7
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60179">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-diego-miranda"><div class="media" id="file-24598">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-diego-miranda"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/Diego%20Miranda.jpg?itok=IK5FMW52" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">56</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-diego-miranda">Diego Miranda</a>
+</div>
+<div class="top100dj-movement">
+Up 2
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60198">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-yellow-claw"><div class="media" id="file-24619">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-yellow-claw"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/57_yellowclaw2.jpg?itok=_KxF7AUg" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">57</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-yellow-claw">Yellow Claw</a>
+</div>
+<div class="top100dj-movement">
+Down 9
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60172">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-miss-k8"><div class="media" id="file-24589">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-miss-k8"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/58_Miss%20K8_0.jpg?itok=Cn9Bo98W" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">58</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-miss-k8">Miss K8</a>
+</div>
+<div class="top100dj-movement">
+Up 30
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60168">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-brennan-heart"><div class="media" id="file-24585">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-brennan-heart"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/59_Brennan%20Heart.jpg?itok=HTidgA-Q" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">59</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-brennan-heart">Brennan Heart</a>
+</div>
+<div class="top100dj-movement">
+No change
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60167">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-mike-williams"><div class="media" id="file-24583">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-mike-williams"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/mike%20williams.jpg?itok=Tm9P1amF" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">60</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-mike-williams">Mike Williams</a>
+</div>
+<div class="top100dj-movement">
+New Entry
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60163">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-dannic"><div class="media" id="file-24580">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-dannic"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/61%20-%20DANNIC.jpg?itok=MyTQprVm" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">61</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-dannic">Dannic</a>
+</div>
+<div class="top100dj-movement">
+Up 9
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60161">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-carl-cox"><div class="media" id="file-24578">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-carl-cox"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/62_carl-cox.jpg?itok=rSGKVV1D" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">62</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-carl-cox">Carl Cox</a>
+</div>
+<div class="top100dj-movement">
+Up 12
+</div>
+</div>
+</div> </div> </article>
+</div> </div>
+<div class="panel-pane pane-djmag-advert-responsive-pane">
+<div id="masthead_default_4_resp">
+<script>
+     googletag.cmd.push(function() {
+       googletag.display('masthead_default_4_resp');
+     });
+   </script>
+</div> </div>
+<div class="panel-pane pane-views-row newtop100--section5 newtop100--section">
+<div class="container_with_line" id="60160">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-carl-nunes"><div class="media" id="file-24576">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-carl-nunes"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/63_Carl%20Nunes.jpg?itok=4NC-n6lh" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">63</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-carl-nunes">Carl Nunes</a>
+</div>
+<div class="top100dj-movement">
+Up 23
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60159">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-lucas-steve"><div class="media" id="file-24573">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-lucas-steve"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/64_LUCAS%20AND%20STEVE.jpg?itok=r20GJJRL" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">64</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-lucas-steve">Lucas &amp; Steve</a>
+</div>
+<div class="top100dj-movement">
+New Entry
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60155">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-warface"><div class="media" id="file-24569">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-warface"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/65_WARFACE.jpg?itok=rmrS-NWW" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">65</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-warface">Warface</a>
+</div>
+<div class="top100dj-movement">
+New Entry
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60153">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-galantis"><div class="media" id="file-24565">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-galantis"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/66%20-%20GALANTIS.jpg?itok=2iiwYJgB" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">66</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-galantis">Galantis</a>
+</div>
+<div class="top100dj-movement">
+Down 27
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60151">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-da-tweekaz"><div class="media" id="file-24563">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-da-tweekaz"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/67%20-%20DA%20TWEEKAZ.jpg?itok=-DzTNpHI" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">67</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-da-tweekaz">Da Tweekaz</a>
+</div>
+<div class="top100dj-movement">
+Up 4
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60149">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-jay-hardway"><div class="media" id="file-24562">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-jay-hardway"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/68%20-%20JAY%20HARDWAY.jpg?itok=dWJcI83B" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">68</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-jay-hardway">Jay Hardway</a>
+</div>
+<div class="top100dj-movement">
+Up 21
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60147">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-claptone"><div class="media" id="file-24560">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-claptone"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/69_Claptone%202016%20by%20Andreas%20Waldschu%CC%88tz_CAL2.jpg?itok=TwrDckIK" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">69</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-claptone">Claptone</a>
+</div>
+<div class="top100dj-movement">
+New Entry
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60146">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-martin-jensen"><div class="media" id="file-24558">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-martin-jensen"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/70_Martin%20Jensen.jpg?itok=Vck5Spj9" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">70</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-martin-jensen">Martin Jensen</a>
+</div>
+<div class="top100dj-movement">
+Up 12
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60145">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-florian-picasso"><div class="media" id="file-24556">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-florian-picasso"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/Florian%20Picasso%20-%20NY.jpg?itok=x07XVqd8" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">71</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-florian-picasso">Florian Picasso</a>
+</div>
+<div class="top100dj-movement">
+Down 33
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60144">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-vini-vici"><div class="media" id="file-24555">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-vini-vici"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/72%20-%20VINI%20VICI.jpg?itok=SuIE973F" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">72</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-vini-vici">Vini Vici</a>
+</div>
+<div class="top100dj-movement">
+New Entry
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60141">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-jauz"><div class="media" id="file-24553">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-jauz"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/73%20-%20JAUZ.jpg?itok=DVqTJC1D" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">73</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-jauz">Jauz</a>
+</div>
+<div class="top100dj-movement">
+Up 10
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60139">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-cat-dealers"><div class="media" id="file-24551">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-cat-dealers"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/74_CAT%20DEALERS.jpg?itok=Rt0tq4Xz" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">74</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-cat-dealers">Cat Dealers</a>
+</div>
+<div class="top100dj-movement">
+New Entry
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60132">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-sam-feldt"><div class="media" id="file-24545">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-sam-feldt"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/75_Sam-Feldt.jpg?itok=RoCPQrXv" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">75</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-sam-feldt">Sam Feldt</a>
+</div>
+<div class="top100dj-movement">
+Up 12
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60121">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-robin-schulz"><div class="media" id="file-24531">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-robin-schulz"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/76_Robin_Schulz2.jpg?itok=p9IrIbVR" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">76</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-robin-schulz">Robin Schulz</a>
+</div>
+<div class="top100dj-movement">
+Down 7
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60118">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-andy-c"><div class="media" id="file-24527">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-andy-c"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/77.%20andy%20c2.jpg?itok=8qAHucri" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">77</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-andy-c">Andy C</a>
+</div>
+<div class="top100dj-movement">
+Re-entry
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60112">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-carnage"><div class="media" id="file-24520">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-carnage"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/78_Carnage.jpg?itok=jzMGLgEw" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">78</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-carnage">Carnage</a>
+</div>
+<div class="top100dj-movement">
+Up 6
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60104">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-andrew-rayel"><div class="media" id="file-24512">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-andrew-rayel"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/79%20-%20ANDREW%20RAYEL_0.jpg?itok=zskjIa-v" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">79</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-andrew-rayel">Andrew Rayel</a>
+</div>
+<div class="top100dj-movement">
+Down 14
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60201">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-richie-hawtin"><div class="media" id="file-24621">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-richie-hawtin"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/80_Richie%20hawtin.jpg?itok=fYLdF4-9" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">80</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-richie-hawtin">Richie Hawtin</a>
+</div>
+<div class="top100dj-movement">
+Re-entry
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60078">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-solomun"><div class="media" id="file-24501">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-solomun"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/Solomun-Press-Photo-4-WEB.jpg?itok=TYedC-hh" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">81</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-solomun">Solomun</a>
+</div>
+<div class="top100dj-movement">
+New Entry
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60077">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-steve-angello"><div class="media" id="file-24500">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-steve-angello"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/12185010_10153384433427408_7483412528164807621_o_0.jpg?itok=t8vMFOf7" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">82</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-steve-angello">Steve Angello</a>
+</div>
+<div class="top100dj-movement">
+Down 52
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60076">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-will-sparks"><div class="media" id="file-24499">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-will-sparks"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/18622432_1316559751725147_5135747041955021589_n.jpg?itok=fDBTPlK1" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">83</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-will-sparks">Will Sparks</a>
+</div>
+<div class="top100dj-movement">
+Down 10
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60075">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-mariana-bo"><div class="media" id="file-24498">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-mariana-bo"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/mariana_bo_0.jpg?itok=r7Ij3SJy" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">84</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-mariana-bo">Mariana Bo</a>
+</div>
+<div class="top100dj-movement">
+New Entry
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60073">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-black-coffee"><div class="media" id="file-24497">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-black-coffee"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/BLACK-COFFEE_1200x800.jpg?itok=jq9y201y" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">85</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-black-coffee">Black Coffee</a>
+</div>
+<div class="top100dj-movement">
+New Entry
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60072">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-dillon-francis"><div class="media" id="file-24496">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-dillon-francis"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/dillon-francis-press-billboard-1548.jpg?itok=Y1I0T-gA" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">86</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-dillon-francis">Dillon Francis</a>
+</div>
+<div class="top100dj-movement">
+Down 22
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60071">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-flume"><div class="media" id="file-24495">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-flume"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/12605398_943549095680452_5929931165691215637_o.jpg?itok=KCp_Edwg" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">87</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-flume">Flume</a>
+</div>
+<div class="top100dj-movement">
+Up 7
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60070">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-shogun"><div class="media" id="file-24494">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-shogun"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/DJ-Shogun-July-2014-106-1024x1024_0.jpg?itok=Ne1WuTOd" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">88</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-shogun">Shogun</a>
+</div>
+<div class="top100dj-movement">
+Down 46
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60068">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-alison-wonderland"><div class="media" id="file-24492">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-alison-wonderland"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/alison-wonderland-tickets_10-13-17_17_595e932997d2c.jpg?itok=PmBbIqD8" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">89</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-alison-wonderland">Alison Wonderland</a>
+</div>
+<div class="top100dj-movement">
+New Entry
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60067">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-ferry-corsten"><div class="media" id="file-24491">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-ferry-corsten"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/17192357_10155087638298209_2036500167694474944_o.jpg?itok=UZuWCHHw" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">90</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-ferry-corsten">Ferry Corsten</a>
+</div>
+<div class="top100dj-movement">
+Up 9
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60066">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-maceo-plex"><div class="media" id="file-24490">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-maceo-plex"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/91%20-%20MACEO%20PLEX.jpg?itok=8Y0UiB0A" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">91</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-maceo-plex">Maceo Plex</a>
+</div>
+<div class="top100dj-movement">
+New Entry
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60065">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-carta"><div class="media" id="file-24625">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-carta"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/16804129_825213390950635_7277249616429891113_o.jpg?itok=uwoZoF03" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">92</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-carta">Carta</a>
+</div>
+<div class="top100dj-movement">
+New Entry
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60063">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-mosimann"><div class="media" id="file-24489">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-mosimann"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/93%20-%20QUENTIN%20MOSIMANN.jpg?itok=-PGdBpHU" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">93</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-mosimann">MOSIMANN</a>
+</div>
+<div class="top100dj-movement">
+Re-entry
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60059">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-julian-jordan"><div class="media" id="file-24484">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-julian-jordan"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/94%20-%20JULIAN%20JORDAN.jpg?itok=cG_GrxcL" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">94</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-julian-jordan">Julian Jordan</a>
+</div>
+<div class="top100dj-movement">
+New Entry
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60056">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-tchami"><div class="media" id="file-24483">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-tchami"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/95%20-%20TCHAMI.jpeg?itok=2iM7R4E_" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">95</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-tchami">tchami</a>
+</div>
+<div class="top100dj-movement">
+Re-entry
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60055">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-porter-robinson"><div class="media" id="file-24482">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-porter-robinson"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/96%20-%20PORTER%20ROBINSON.jpg?itok=j3msrFoS" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">96</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-porter-robinson">Porter Robinson</a>
+</div>
+<div class="top100dj-movement">
+Down 6
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60054">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-paul-kalkbrenner"><div class="media" id="file-24481">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-paul-kalkbrenner"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/97%20-%20PAUL%20KALKBRENNER.jpg?itok=230mkq3N" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">97</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-paul-kalkbrenner">Paul Kalkbrenner</a>
+</div>
+<div class="top100dj-movement">
+Re-entry
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60053">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-dj-l"><div class="media" id="file-24480">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-dj-l"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/98%20-%20DJ%20L.jpg?itok=X7wAtU-U" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">98</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-dj-l">DJ L</a>
+</div>
+<div class="top100dj-movement">
+New Entry
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60050">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-swanky-tunes"><div class="media" id="file-24479">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-swanky-tunes"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/99%20-%20SWANKY%20TUNES2.jpg?itok=kNIs93OC" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">99</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-swanky-tunes">Swanky Tunes</a>
+</div>
+<div class="top100dj-movement">
+Down 72
+</div>
+</div>
+</div> </div> </article>
+</div>
+<div class="container_with_line" id="60048">
+<article>
+<div class="views-field views-field-field-media"> <div class="field-content"><a href="/top-100-djs/poll-2017-disclosure"><div class="media" id="file-24475">
+<figure class="media--image">
+<a href="/top-100-djs/poll-2017-disclosure"><img src="https://djmag.com/sites/default/files/styles/djmag_landscape/public/top100/djs/image/100%20-%20DISCLOSURE.png?itok=wY-6MweR" alt="" /></a> <figcaption class="media--image--caption">
+</figcaption>
+</figure>
+</div>
+</a></div> </div>
+<div class="views-field views-field-field-top100-position"> <div class="field-content">100</div> </div>
+<div class="views-field views-field-field-top100-places"> <div class="field-content"><div class="top100dj-title-bar-rest">
+<div class="top100dj-name">
+<a href="/top-100-djs/poll-2017-disclosure">Disclosure</a>
+</div>
+<div class="top100dj-movement">
+Re-entry
+</div>
+</div>
+</div> </div> </article>
+</div> </div>
+</section>
+</div>
+</div>
+</main>
+<div class="_site--footer">
+<div class="_site--footer--banner">
+<a href="#top" class="back-top--link">back to top</a>
+<div class="branding">
+<a href="/" class="branding--link--SMALL" title="DjMag">DJMAG</a>
+</div>
+</div>
+<div class="_site--navigation--section--link">
+ <a href="#" class="navigation--section--link--toggle">all sections</a>
+</div>
+<div class="_site--navigation">
+<div class="_site--navigation-main">
+<div class="_site--navigation--container">
+<div class="navigation--scroll">
+<nav class="navigation--primary" role="navigation">
+<a href="/" class="navigation--primary--link--HOME navigation--primary--link">home</a><a href="/news" class="navigation--primary--link">News</a><a href="/features" class="navigation--primary--link">Features</a><a href="/clubs" class="navigation--primary--link">Clubs</a><a href="/music" class="navigation--primary--link">Music</a><a href="/tech" class="navigation--primary--link">Tech</a><a href="/top100djs" class="active-trail navigation--primary--link active">Top 100 DJs</a><a href="/top100clubs" class="navigation--primary--link">Top 100 Clubs</a><a href="http://top100clubs.com" class="navigation--primary--link">Voting</a><a href="/miller" class="navigation--primary--link">Miller Music Hub</a><a href="/info/live-streams" class="navigation--primary--link">Live Streams</a></nav>
+</div>
+</div>
+</div>
+<div class="_site--navigation-section">
+<nav class="navigation--section" role="navigation">
+<ul class="navigation--section--primary"><li class="navigation--section--primary--item"><a href="/news" class="navigation--section--primary--link">News</a></li>
+<li class="navigation--section--primary--item"><a href="/features" class="navigation--section--primary--link">Features</a></li>
+<li class="navigation--section--primary--item"><a href="/clubs" class="navigation--section--primary--link">Clubs</a></li>
+<li class="navigation--section--primary--item"><a href="/music" class="navigation--section--primary--link">Music</a><ul class="navigation--section--secondary"><li class="navigation--section--secondary--item"><a href="/musicreviews" class="navigation--section--secondary--link">Reviews</a></li>
+<li class="navigation--section--secondary--item"><a href="/music" class="navigation--section--secondary--link">News</a></li>
+</ul></li>
+<li class="navigation--section--primary--item"><a href="/tech" class="navigation--section--primary--link">Tech</a></li>
+<li class="navigation--section--primary--item"><a href="/top100djs" class="active-trail navigation--section--primary--link active">Top 100 DJs</a></li>
+<li class="navigation--section--primary--item"><a href="/top100clubs" class="navigation--section--primary--link">Top 100 Clubs</a></li>
+<li class="navigation--section--primary--item"><a href="http://top100clubs.com" class="navigation--section--primary--link">Voting</a></li>
+<li class="navigation--section--primary--item"><a href="/miller" class="navigation--section--primary--link">Miller Music Hub</a></li>
+<li class="navigation--section--primary--item"><a href="/info/live-streams" class="navigation--section--primary--link">Live Streams</a></li>
+</ul></nav> </div>
+</div>
+</div>
+<div class="_site--footer--meta">
+<div class="_site--footer--meta--content">
+<nav class="navigation--footer" role="contentinfo">
+<ul class="navigation--footer--list"><a href="http://djmag.com/info/about" class="navigation--footer--link">About</a><a href="http://newdjmag.djmag.com/content/advertising" class="navigation--footer--link">Advertising</a><a href="http://djmag.com/content/submit-article" class="navigation--footer--link">Editorial</a><a href="http://a.djmag.com/Help" class="navigation--footer--link">Help</a><a href="http://www.djmag.com/content/careers-dj-mag" class="navigation--footer--link">Jobs</a><a href="/staff" class="navigation--footer--link">Staff</a><a href="http://djmag.com/content/terms-and-conditions" class="navigation--footer--link">Terms &amp; Conditions</a></ul></nav>
+<div class="_site--footer--meta--copyright">
+<p>Thrust Media Ltd, PO Box 71897 London N1P 1HH United Kingdom. Tel: +44(0)20 7686 6545</p>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
